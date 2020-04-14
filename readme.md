@@ -18,6 +18,7 @@
 * Ubuntu 16.04 LTS Gnome 3.18
 * manjaro - xfce 18.1.3
 * Pop!_OS 19.04 - Gnome 3.32.2
+* Pop!_OS 19.10 - Gnome 3.34.3
 * Ubuntu 18.04.3 LTS - Gnome 3.28.2
 ## Running instructions
 - Disable gnome's native edge tiling:
